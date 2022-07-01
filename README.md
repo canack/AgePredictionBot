@@ -20,7 +20,7 @@
 git clone --depth=1 https://github.com/canack/AgePredictionBot
 cd AgePredictionBot
 docker build -t age-prediction:latest -f age-prediction.Dockerfile 
-docker run --rm -e BOT_TOKEN="your_bot_token" -e AWS_ACCESS_KEY_ID="aws_access_key_id" -e AWS_SECRET_ACCESS_KEY="aws_secret_access_key" -e AWS_REGION="aws_region" agePrediction:latest
+docker run --rm -e BOT_TOKEN="your_bot_token" -e AWS_ACCESS_KEY_ID="aws_access_key_id" -e AWS_SECRET_ACCESS_KEY="aws_secret_access_key" -e AWS_REGION="aws_region" age-prediction:latest
 ```
 #### Or you can directly run:
 ```shell
