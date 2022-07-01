@@ -1,7 +1,7 @@
 package telegram
 
 import (
-	"github.com/canack/yasbot/telegram/handler"
+	"github.com/canack/AgePredictionBot/telegram/handler"
 	tele "gopkg.in/telebot.v3"
 	_ "image/jpeg"
 	_ "image/png"

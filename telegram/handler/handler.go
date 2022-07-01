@@ -3,7 +3,7 @@ package handler
 import (
 	"errors"
 	"fmt"
-	"github.com/canack/yasbot/recognize"
+	"github.com/canack/AgePredictionBot/recognize"
 	tele "gopkg.in/telebot.v3"
 	"log"
 )

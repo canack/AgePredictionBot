@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/canack/yasbot/recognize"
-	"github.com/canack/yasbot/telegram"
+	"github.com/canack/AgePredictionBot/recognize"
+	"github.com/canack/AgePredictionBot/telegram"
 	"log"
 	"os"
 )

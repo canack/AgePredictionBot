@@ -1,4 +1,4 @@
-module github.com/canack/yasbot
+module github.com/canack/AgePredictionBot
 
 go 1.18
 
